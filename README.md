@@ -1,10 +1,11 @@
 ## Using 
+`node v20.10.0.`
+`npm 10.2.3`
+
 Use `node --version`  `npm --version` to check version of node.
 
-node v20.10.0.
-npm 10.2.3
+**If you haven't install node yet.**
 
-If you haven't install node yet.
 # Installation
 Install NodeJS: https://nodejs.org/en/download
 
