@@ -35,7 +35,7 @@ npm install axios
 npm run dev
 ```
 
-Go to localhost: [Localhost](localhost:3000)
+Go to localhost: [Localhost](http://localhost:3000)
 
 Tải về folder display-13
 Cài đặt Nodejs
