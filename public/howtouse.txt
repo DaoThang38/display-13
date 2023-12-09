@@ -1,1 +1,4 @@
-Chỗ này ghi hướng dẫn sử dụng
+-Thao tác với giao diện
+Nhấn vào nút "Chọn tệp": chọn tệp chứa hình ảnh là CCCD muốn xử lí
+Nhấn vào nút "Xác nhận ảnh": hoàn tất quá trình tải ảnh lên
+Nhấn vào nút "Tải xuống": tải về file text chứa thông tin lấy ra từ CCCD được tải lên
